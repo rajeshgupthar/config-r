@@ -47,6 +47,7 @@
     <AssemblyOriginatorKeyFile>..\ConfigR.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="App.cs" />
     <Compile Include="ConfigRScriptExecutor.cs" />
     <Compile Include="Configurator.cs" />
     <Compile Include="CascadingConfigurator.cs" />
